@@ -1,4 +1,9 @@
-# Tetris auf dem Gameboy
+> [!NOTE]
+> Dieses Repository wurde archiviert.
+> Der Java-Code ist als Submodul in die [Engine Pi](https://github.com/engine-pi/engine-pi/tree/main/modules/games/tetris) integriert.
+> Die Medien-Dateien finden sich im [assets](https://github.com/engine-pi/assets/tree/main/tetris)-Repository.
+
+c# Tetris auf dem Gameboy
 
 Nachbau des Spiels Tetris auf dem klassischem Gameboy mit Hilfe von Java und
 der Engine Alpha.
